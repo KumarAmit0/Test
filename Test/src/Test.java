@@ -7,6 +7,8 @@ public class Test {
 		System.out.println("Enter Bike name");
 		String name=sc.nextLine();
 		System.out.println(name);
+		String newbike=sc.next();
+		System.out.println(newbike);
 
 	}
 
